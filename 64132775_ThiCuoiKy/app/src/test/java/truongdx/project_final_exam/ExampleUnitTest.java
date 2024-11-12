@@ -1,4 +1,4 @@
-package truongdx.project_finalexam;
+package truongdx.project_final_exam;
 
 import org.junit.Test;
 
