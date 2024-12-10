@@ -12,20 +12,11 @@
         android:id="@+id/linearLayout"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:background="@color/purple"
+        android:background="@drawable/bg_c"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
-
-        <ImageView
-            android:layout_marginTop="50dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:background="@drawable/format_imgbutton"
-            android:src="@drawable/shortlogo_c" />
-    </LinearLayout>
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <LinearLayout
         android:layout_width="match_parent"
